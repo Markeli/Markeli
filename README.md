@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Max
+### Hi there 👋 I'm Maxim Markelow
 
-- I'm Engineering Manager at [Mindbox](https://github.com/mindbox-cloud).
+- Engineering Manager at [Mindbox](https://github.com/mindbox-cloud).
 - Ex-TeamLead at [SIIS Ltd](https://github.com/siisltd).
 - 🤖 Most of the time I'm writing on C#. Sometimes JavaScript/VueJS.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
