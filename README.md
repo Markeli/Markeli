@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Maxim Markelow
 
-- 💼 Engineering Manager at [Mindbox](https://github.com/mindbox-cloud).
+- 🚀 Engineering Manager at [Mindbox](https://github.com/mindbox-cloud).
 - 💼 Ex-TeamLead at [SIIS Ltd](https://github.com/siisltd).
 - 🤖 Most of the time I'm writing on C#. Sometimes JavaScript/VueJS.
-- 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✉️ You can shoot me an email at [markelow.dev@gmail.com](mailto:me@markelow.dev@gmail.com).
 
 ## 🛠 My fancy badge area
