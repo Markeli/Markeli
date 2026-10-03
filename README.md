@@ -1,4 +1,4 @@
-# Maxim Markelow
+# Max Markelow
 
 **Engineering Manager — Security & .NET Platform**
 
