@@ -6,7 +6,7 @@ I build engineering teams and the platforms they run on. At Mindbox, a B2B custo
 
 Ex-TeamLead at [SIIS Ltd](https://github.com/siisltd). Built survey constructor, call-center SaaS, uber for call-center, online pannel.
 
-✉️ [markelow.dev@gmail.com](mailto:markelow.dev@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/maxim-markelow-a24573123/)
+✉️ [markelow.dev@gmail.com](mailto:markelow.dev@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/maxim-markelow-a24573123/) · ✍️ [Blog](https://markeli.github.io)
 
 ## 🛠 My fancy badge area
 
